@@ -1,0 +1,3 @@
+rootProject.name = 'lostnfound_1884'
+
+include ':app'
